@@ -78,6 +78,7 @@
     background: none;
     padding: 1rem;
     font-size: 1.8rem;
+    border-bottom: .3rem solid var(--main-text-color);
 }
 .form__card-box {
     margin-bottom: 2rem;
